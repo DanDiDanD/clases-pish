@@ -1,0 +1,33 @@
+*** Crear proyecto: https://create-react-app.dev/
+01. Variables y Contantes (Scope)
+02. Template String (Backtick / Back Quotes)
+
+*** Data Types (Tipo de datos Primitivos y de referencia) 
+    https://blog.devgenius.io/mutable-and-immutable-in-javascript-78a3cbc6187c#:~:text=Mutable%20is%20a%20type%20of,once%20the%20object%20is%20created.
+
+03. Objetos literales (operador ...spreed: extrae y devuelve individualmente los valores de un objeto/arreglo)
+04. Arreglos y arreglos literales
+    5.1. push
+    5.2. operador ...spreed
+
+05. Funciones:
+    5.1 funcion clásica 
+    5.2 funcion flecha (se le asigna la función a una variable)
+        5.2.1 Forma de una función flecha | () => {}
+        5.2.3 Why
+              - Mantiene la legibilidad del código
+              - https://www.digitalocean.com/community/tutorials/understanding-arrow-functions-in-javascript
+
+06. Destructuración de Objetos
+    - https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+07. Destructuración de Arreglos
+08. Operador condicional ternario
+
+
+Tarea 1:
+  1. Visual Studio Code: Mejora tu velocidad para codificar | 1 hora 44 minutos  https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/
+  2. Tunear terminal windows | https://www.youtube.com/watch?v=d9y0l7yY404&t=1493s
+
+Tarea 2: 
+  2. Investigar sobre el Paradigma de Programación Reactiva
+  3. You don't know JS, Tomo 1: Get Started, Capitulos 1,2,3,4 | 5 días https://github.com/getify/You-Dont-Know-JS
