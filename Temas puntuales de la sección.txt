@@ -26,7 +26,8 @@
 
 Tarea 1:
   1. Visual Studio Code: Mejora tu velocidad para codificar | 1 hora 44 minutos  https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/
-  2. Tunear terminal windows | https://www.youtube.com/watch?v=d9y0l7yY404&t=1493s
+  2. Instalar NVM para windows
+  3. Tunear terminal windows | https://www.youtube.com/watch?v=d9y0l7yY404&t=1493s
 
 Tarea 2: 
   2. Investigar sobre el Paradigma de Programación Reactiva
